@@ -1,2 +1,2 @@
 # A_Novel_Authentication_and_Key_Agreement_Scheme_for_Implantable---Code
-Code for a secure authentication and key agreement scheme tailored for implantable devices, ensuring safe communication in resource-constrained environments.
+This repository contains the code for a secure authentication and key agreement scheme designed for implantable devices. The proposed scheme ensures secure communication, protecting against unauthorized access and eavesdropping, while maintaining energy efficiency for long-term deployment in medical applications. The implementation is based on cryptographic protocols and is optimized for resource-constrained environments.
